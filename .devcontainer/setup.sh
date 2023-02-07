@@ -8,6 +8,7 @@ apt-get install -y \
   sudo \
   zsh \
   vim \
+  httpie \
   build-essential \
   openssl
 
